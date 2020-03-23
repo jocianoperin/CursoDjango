@@ -41,3 +41,6 @@ while True:
 
     if letra not in secreto:
         chances -= 1
+    
+    print(f'Você tem {chances} chances.')
+    
