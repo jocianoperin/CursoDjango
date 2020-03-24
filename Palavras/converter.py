@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import unicodedata
 import os
-#ler corretamente o arquivo pt_BR.dic
+#ler corretamente arquivo
 THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
 ENTRADA = os.path.join(THIS_FOLDER, 'pt_BR.dic')
 SAIDA = os.path.join(THIS_FOLDER, 'palavras.txt')
