@@ -1,11 +1,2 @@
-print("Hello World!")
-
-print("nova interação")
-
-print("mais uma interação")
-
-print("quarta interação")
-
-print("teste novo")
-
-print("2403")
+print("arquivo usado para testes de commit, push, etc")
+print("linha 1")
