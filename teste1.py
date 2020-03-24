@@ -8,6 +8,4 @@ print("quarta interação")
 
 print("teste novo")
 
-print(123)
-
-print("24/03/2020")
+print("2403")
