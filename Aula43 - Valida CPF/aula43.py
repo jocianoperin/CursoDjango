@@ -24,7 +24,7 @@ else:
 
     dig2 = 11 - (tot1 % 11)
 
-    print(dig1, dig2, cpf[-2], cpf[-1])
+    #print(dig1, dig2, cpf[-2], cpf[-1])
 
     if(dig1 == int(cpf[-2]) and dig2 == int(cpf[-1])):
         print('CPF válido')
